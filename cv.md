@@ -7,8 +7,8 @@
 
 ## About me: ##
 
-I’m a second-year student of BNTU. During the first course I independently studied the front-end. Now I decided to try my hand at this course.
-I'm wondering how far I can go in this course and, if I can complete it, will I get a job
+I'm 18 and I'm a second-year student of BNTU. During the first course I independently studied front-end technologies. Now I decided to try my hand at this course.
+I'm wondering how far I can go in this course and, if I can complete it, will I get a job.
 
 ## Skills: ##
 * HTML
@@ -68,6 +68,15 @@ function solution(list){
 ```
 
 ## Experience: 
+
+* https://github.com/Bobotet/BreakOut.git
+* https://github.com/Bobotet/Calculator.git
+* https://github.com/Bobotet/SnakeGame.git
+* https://github.com/Bobotet/YourSite.git
+* https://github.com/Bobotet/Bakery.git
+* https://github.com/Bobotet/MyCompany.git
+* https://github.com/Bobotet/Rock.git
+* https://github.com/Bobotet/Services.git
 
 ## Education: 
 * Belarusian National Technical University
